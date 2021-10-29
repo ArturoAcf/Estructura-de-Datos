@@ -267,8 +267,8 @@ const double conver = 0.1;
                     media2 += img[i][j];
                 }
 
-        media1 =media1 / nelem1; // Calcula la media de los pixeles de la zona mas alta
-        media2 =media2 / nelem2; // Calcula la media de los pixeles de la zona mas baja
+        media1 =media1 / nelem1; // Calcula la media de los píxeles de la zona mas alta
+        media2 =media2 / nelem2; // Calcula la media de los píxeles de la zona mas baja
 
         T_old = T;               // Actualizamos los valores
         T = (media1 + media2)/2;

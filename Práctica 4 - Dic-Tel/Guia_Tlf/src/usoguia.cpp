@@ -3,10 +3,7 @@
 //
 // NOTA -> No he incluido nada del usoguia.cpp proporcionado salvo el principio, por lo que no añade ni elimina contactos.
 //         Ya disponíamos de esa utilidad por lo que no sería un añadido propio.
-// NOTA -> Aparentemente hay un problema con doxygen que no he logrado solucionar.
-//         En la carpeta de la documentación le dejo lo que ha generado el mismo.
-//         En el diccionario no se lo incluiré, ya que sucede lo mismo.
-// NOTA -> Los fichero de entrada con las guias en formato txt están en la carpeta bin por agilizar.
+// NOTA -> Los ficheros de entrada con las guías en formato txt están en la carpeta bin por agilizar.
 
 /**
   *@file Fichero que contiene la función princiapl "main" del programa

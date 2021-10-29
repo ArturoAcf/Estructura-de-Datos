@@ -117,11 +117,11 @@ public:
   void asigna_pixel(int filas, int cols, byte valor);
 
   /**
-  *@brief Calcula y devuelve el valor de el pixel deseado
+  *@brief Calcula y devuelve el valor de el píxel deseado
   *
-  *@param "fila" Indica el valor de la fila del pixel
-  *@param "col" Indica el valor de la columna del pixel
-  *@return Valor de tipo byte que contiene el valor del pixel situado en la posición fila x col
+  *@param "fila" Indica el valor de la fila del píxel
+  *@param "col" Indica el valor de la columna del píxel
+  *@return Valor de tipo byte que contiene el valor del píxel situado en la posición fila x col
   */
   byte valor_pixel(int fila, int col);
 

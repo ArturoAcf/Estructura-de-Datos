@@ -330,17 +330,17 @@ char obtenerInicial(const string &nombre){
 }
 
 /**
-	*@brief Obtiene el primer digito de un número
+	*@brief Obtiene el primer dígito de un número
 	*@param numero representa el número a comprobar
 	*
-	*@return Devuelve el primer digito del número indicado
+	*@return Devuelve el primer dígito del número indicado
 	*/
 int obtenerDigito(string &numero){
 	return numero[0];
 }
 
 /**
-	*@brief Comprube si un número existe
+	*@brief Comprueba si un número existe
 	*@param num representa el número a comprobar
 	*
 	*@return Devuelve true si el número está en la guía y false en caso contrario

@@ -5,7 +5,7 @@
 //         En ocasiones muestra ese error y en ocasiones muestra espacios en blanco de forma infinita.
 //         Desconozco si el error es del material o de mi ordenador, pero tras mostrar el diccionario, falla.
 //         El caso es que no está relacionado con mis métodos, ya que sucedió antes de definirlos.
-//         Todo ello antes de crear los métodos y los iteradores.
+//         Todo ello antes de crear los iteradores.
 //         Si no he averiguado mal, el fallo está en el operador <<.
 // NOTA -> Por su parte, la guía funciona correctamente.
 // NOTA -> Los ficheros de entrada con los diccioarios de tipo txt están en bin.

@@ -13,9 +13,9 @@
 
 using namespace std;
 
-// Guia con los nombres que empiecen por la inicial deseada
+// Guía con los nombres que empiecen por la inicial deseada
 Guia_Tlf Guia_Tlf::buscarPorInicial(char inicial){
-  Guia_Tlf p_amarillas; // Guia de teléfono auxiliar
+  Guia_Tlf p_amarillas; // Guía de teléfono auxiliar
   Guia_Tlf::iterator it;
   char l=toupper(inicial);
 
@@ -47,7 +47,7 @@ string Guia_Tlf::numeroDeNombre(string &numero){
   return resultado;
 }
 
-// Guia con los móviles de España
+// Guía con los móviles de España
 Guia_Tlf Guia_Tlf::movilesEsp(){
   Guia_Tlf moviles_esp;
   Guia_Tlf::iterator it;

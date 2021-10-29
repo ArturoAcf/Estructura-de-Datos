@@ -47,7 +47,7 @@
 
         /**
          * @brief Constructor de copia
-         * @param orig la pila de la cual se realiza la copia
+         * @param orig la pila de la que se realiza la copia
          */
         Pila_max_VD(const Pila_max_VD& orig);
 
