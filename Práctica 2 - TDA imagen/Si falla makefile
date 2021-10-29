@@ -1,0 +1,3 @@
+En caso de que el makefile falle, compílese de la siguiente forma:
+
+g++ -g -I./inc src/imagen.cpp src/main.cpp -o obj/imagen
