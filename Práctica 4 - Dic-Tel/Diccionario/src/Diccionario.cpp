@@ -1,4 +1,4 @@
-// Realizado por Arturo Alonso Carbonero - DNI -> 75936665-A
+// Realizado por Arturo Alonso Carbonero
 // Grupo -> 2ºC - C1
 
 /**

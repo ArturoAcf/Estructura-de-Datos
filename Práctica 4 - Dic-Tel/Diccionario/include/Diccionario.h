@@ -1,5 +1,4 @@
 // Realizado por: Arturo Alonso Carbonero
-// DNI: 75936665-A
 // Grupo: 2ºC - C1
 //
 // NOTA -> He mantenido el material proporcionado casi intacto
